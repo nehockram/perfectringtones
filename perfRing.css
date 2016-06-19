@@ -6,7 +6,11 @@
 body {
     margin: 15px;
 }
-
+#prr,
+#prar,
+#uor {
+    float: left;
+}
 h1,
 h2 {
     text-align: center;
