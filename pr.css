@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+    margin: 15px;
+}
+.simp3d {
+    color: #fff;
+    background-color: lightblue;
+    text-shadow: #969696 1px 3px 0, #aba8a8 1px 13px 5px;
+    font-size: 44px;
+    text-align: center;
+}
+
+.centerit{
+    text-align: center;
+}
